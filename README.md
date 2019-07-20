@@ -1,5 +1,7 @@
 # x-nodejs-ts
 
+A template for nodejs/ts project. See [create-x](https://github.com/arzyu/create-x) for more information.
+
 ## Usage
 
 ```bash
