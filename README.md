@@ -5,5 +5,5 @@ A template for nodejs/ts project. See [create-x](https://github.com/arzyu/create
 ## Usage
 
 ```bash
-npx create-x --from arzyu/x-nodejs-ts <NEW-PROJECT-DIR>
+npx create-x --from arzyu/x-nodejs-ts [NEW-PROJECT-DIR]
 ```
